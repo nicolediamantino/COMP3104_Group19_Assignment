@@ -1,0 +1,5 @@
+## Software development life cycle or (SDLC) includes planning,development, testing, deployment, and maintinence. 
+
+## Devops supports these stages by improving collaboration between development and operations.
+
+## through autopmation and regular feedback, teams can identify problems early and reliable software.
