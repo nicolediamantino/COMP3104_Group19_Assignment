@@ -14,3 +14,10 @@
 ### Pull requests
 #### PR or pull request tells your team to inpect your work before it touches the main codebase
 #### Members can catch bugs, read each line, suggest better solutions and explain about design choices
+
+
+## Continuous integration (CI) automaticall runs checks when developers push changes.
+
+## GitHub actions supports CI by running workflows that can trest code and catch problems early.
+
+## In this assignment the sample workflow prints messges and checkouts the repository to demostrate that the autopmation works.
