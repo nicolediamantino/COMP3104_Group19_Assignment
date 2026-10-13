@@ -8,3 +8,8 @@
 
 ## Version control keeps a history of changes, while automated test can detect errors before software is released.
 ## this allows developers to fix problems earlier and reduce chance of introducing bugs into the main branch
+
+
+## During deployment and maintinence, Devops helps teams release updates consistently through automation. 
+## after deployment monitoring and user feedback helps teams identify problems and plan improvements.
+# This ongoing process helps keeps software reliable and responsive to users needs.
