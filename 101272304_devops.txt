@@ -1,0 +1,7 @@
+#DevOps 
+##comp3104
+
+## This assignment helps us practice using git commands to familiarize ourselves to be proficient in Git and GitHub
+
+## by being proficient in Git and GitHub, we can collaborate with our team with ease.
+
