@@ -1,1 +1,2 @@
 # George Brown Polytechnic is a college located in different parts of Toronto Ontario Canada.
+# Im currently enroled in T197 program in GBC. Topics we've learned about are Python, JS, C#, SQL, CLI, GitHub, NumPy, PHP, Algorithms, Quality Assurance, DevOps and much more, these are just some of what we've learned so far. 
