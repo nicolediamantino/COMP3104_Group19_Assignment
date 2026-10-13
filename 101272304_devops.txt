@@ -5,3 +5,12 @@
 
 ## by being proficient in Git and GitHub, we can collaborate with our team with ease.
 
+### Git tracking
+####changes by taking a snapshot each time you save, and then Git records the changes as a history tree aslo known as commits
+
+#### Branch
+#### Each team member uses there own branch to isolate work, and creates a safe and independent workspaces for specific features and prevent risk of multiple members working on different features without mixing their own work all whilst keeping main branch stable and working.
+
+### Pull requests
+#### PR or pull request tells your team to inpect your work before it touches the main codebase
+#### Members can catch bugs, read each line, suggest better solutions and explain about design choices
