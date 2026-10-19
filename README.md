@@ -8,12 +8,12 @@ The project demonstrates Git version control, GitHub collaboration, branching st
 
 ## Group Members
 
-| Name | Student ID | Branch |
-|------|------------|--------|
+|      Name   | Student ID | Branch |
+|-------------|------------|--------|
 | Nicole Diamantino | 101394035 | 101394035-Nicole |
-| Clein | 101272304 | 101272304-Clein |
-
-Additional group members will be added once their information is confirmed.
+| Clein Ecoy | 101272304 | 101272304-Clein |
+| Gargi Borphukan | To be confirmed | To be confirmed |
+| Vera Brazao | To be confirmed | To be confirmed |
 
 ## Repository Structure
 
