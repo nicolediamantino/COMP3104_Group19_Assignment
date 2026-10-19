@@ -17,3 +17,16 @@ One of the most valuable parts of my education at George Brown Polytechnic is th
 Through group assignments, I have learned how to collaborate with other students, organize project tasks, and use GitHub to manage source code.
 
 These experiences have helped me understand how software development teams work in professional environments.
+
+
+Career Development and Future Goals
+
+Studying Computer Programming and Analysis at George Brown Polytechnic has helped me prepare for a career in technology.
+
+Through my courses, I have gained experience with software development, databases, mobile applications, and collaborative projects.
+
+Learning DevOps has also helped me understand the importance of version control, automation, and continuous integration in professional software development.
+
+My goal is to continue improving my technical skills, gain industry experience, and contribute to real-world software development projects.
+
+I believe the knowledge gained from COMP3104 will help me work more effectively in future development teams.
