@@ -21,3 +21,16 @@ GitHub is a platform that hosts Git repositories and supports collaboration thro
 In our COMP3104 group assignment, we use individual branches to keep each member's work separate before merging changes into the main branch.
 
 This approach helps prevent conflicts, improves collaboration, and makes it easier to review contributions from each team member.
+
+
+Continuous Integration and Continuous Delivery
+
+Continuous Integration (CI) is a DevOps practice where developers frequently integrate their changes into a shared repository.
+
+Automated workflows help identify problems early by running checks whenever code is pushed or a pull request is created.
+
+Continuous Delivery (CD) helps ensure that software changes are tested and ready for deployment.
+
+For our COMP3104 group assignment, I configured a GitHub Actions workflow using a ci.yml file. The workflow checks that the repository contains a README.md file.
+
+This experience helped me understand how automation supports software quality and team collaboration.
