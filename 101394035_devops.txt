@@ -10,3 +10,14 @@ Throughout this course, I have learned about Git, GitHub, branching strategies, 
 I have also gained hands-on experience using GitHub Actions to automate repository checks and improve the development workflow.
 
 These skills are important because they help development teams work together, identify errors earlier, and maintain reliable software.
+
+
+Git and GitHub in DevOps
+
+Git is a distributed version control system that allows developers to track changes in their code and maintain a history of their work.
+
+GitHub is a platform that hosts Git repositories and supports collaboration through branches, pull requests, and code reviews.
+
+In our COMP3104 group assignment, we use individual branches to keep each member's work separate before merging changes into the main branch.
+
+This approach helps prevent conflicts, improves collaboration, and makes it easier to review contributions from each team member.
