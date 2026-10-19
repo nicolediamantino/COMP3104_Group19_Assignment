@@ -8,3 +8,12 @@ George Brown provides hands-on learning opportunities that help students develop
 The program has helped me strengthen my problem-solving, teamwork, and communication skills through individual and group projects.
 
 My goal is to continue developing my technical knowledge and gain professional experience in the technology industry.
+
+
+Practical Learning Experience
+
+One of the most valuable parts of my education at George Brown Polytechnic is the opportunity to work on practical projects.
+
+Through group assignments, I have learned how to collaborate with other students, organize project tasks, and use GitHub to manage source code.
+
+These experiences have helped me understand how software development teams work in professional environments.
