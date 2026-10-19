@@ -1,0 +1,12 @@
+
+COMP3104 – DevOps
+
+COMP3104 is a DevOps course at George Brown Polytechnic that introduces students to the tools and practices used in modern software development.
+
+DevOps combines software development and IT operations to improve collaboration, automate workflows, and deliver software more efficiently.
+
+Throughout this course, I have learned about Git, GitHub, branching strategies, pull requests, continuous integration, and continuous delivery.
+
+I have also gained hands-on experience using GitHub Actions to automate repository checks and improve the development workflow.
+
+These skills are important because they help development teams work together, identify errors earlier, and maintain reliable software.
