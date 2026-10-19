@@ -14,3 +14,16 @@ DevOps also improves communication, reduces manual work, and helps identify prob
 In my COMP3104 group assignment, I applied DevOps practices by creating GitHub branches, committing changes, using pull requests, and configuring a GitHub Actions CI workflow.
 
 Overall, DevOps makes the SDLC more efficient by improving software quality, collaboration, and delivery speed.
+
+
+Software Testing in DevOps
+
+Software testing is an important part of the Software Development Life Cycle because it helps identify defects before an application is released.
+
+DevOps encourages continuous testing throughout development instead of waiting until the end of a project.
+
+Automated testing can help developers identify problems quickly and reduce the amount of manual testing required.
+
+By integrating testing into CI pipelines, teams can receive faster feedback and improve software reliability.
+
+Testing also helps ensure that new changes do not negatively affect existing functionality.
