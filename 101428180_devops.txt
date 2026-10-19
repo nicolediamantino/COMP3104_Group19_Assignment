@@ -1,0 +1,17 @@
+COMP3104 - DevOps
+
+Before taking COMP3104, I thought software development was mainly about writing code and making applications work.
+However, through this course, I am learning that developing software also involves collaboration, organization, version control,
+and automation.
+DevOps combines Development and Operations, helping teams work together to build, test, and deliver software more efficiently.
+
+Why DevOps Matters:
+
+One important thing I have learned is that DevOps is not just about technology. It is also about creating a culture where people 
+work together, communicate effectively, and share responsibilities.
+By adopting DevOps practices, companies can automate repetitive tasks, reduce operational costs, improve security,
+and deliver software faster.
+I find this especially interesting because automation allows developers to spend less time on repetitive tasks and 
+more time solving problems and improving their applications.
+In COMP3104, I am also learning how tools such as Git and GitHub support collaboration by allowing developers to track changes
+and work on the same project through individual branches.
