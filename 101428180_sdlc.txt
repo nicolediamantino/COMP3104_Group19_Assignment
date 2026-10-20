@@ -26,3 +26,13 @@ Importance of Continuous Testing
 Continuous testing is an important DevOps practice because it helps teams identify errors throughout the software development process.
 Instead of waiting until the end of a project, developers can test their changes regularly and receive feedback earlier.
 This reduces the risk of releasing software with bugs and helps improve the quality and reliability of applications.
+
+
+Monitoring and Feedback in the SDLC
+
+After software is deployed, the development process does not end. Teams need to monitor applications to identify performance issues,
+errors, and unexpected behavior.
+For example, if users report that an application is running slowly, the team can investigate the problem, make improvements, 
+and release an updated version.
+This continuous feedback helps teams maintain reliable applications and improve the user experience over time.
+
