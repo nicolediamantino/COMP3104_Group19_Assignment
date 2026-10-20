@@ -1,0 +1,13 @@
+Importance of DevOps in software Development Life Cycle (SDLC)
+
+During the planning and development stages, DevOps encourages teamwork and helps developers organize their tasks.
+Tools such as Git and GitHub allow team members to track changes and work on different parts of a project.
+During testing, Continuous Integration (CI) helps identify problems earlier by automatically running checks whenever 
+developers submit changes.
+
+During deployment, Continuous Delivery (CD) helps prepare software updates for release, reducing manual work and making the
+process more reliable.
+
+Finally, during maintenance, monitoring and feedback help teams identify problems, improve performance, and keep
+ applications running smoothly.
+
