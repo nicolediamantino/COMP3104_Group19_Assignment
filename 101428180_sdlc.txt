@@ -10,6 +10,7 @@ process more reliable.
 
 Finally, during maintenance, monitoring and feedback help teams identify problems, improve performance, and keep
  applications running smoothly.
+
  
  My Learning Experience
 
@@ -19,3 +20,9 @@ It requires planning, testing, teamwork, and continuous improvement.
 Learning about DevOps has helped me understand how different stages of software development are connected and why
 collaboration and automation are important for building reliable applications.
 
+
+Importance of Continuous Testing
+
+Continuous testing is an important DevOps practice because it helps teams identify errors throughout the software development process.
+Instead of waiting until the end of a project, developers can test their changes regularly and receive feedback earlier.
+This reduces the risk of releasing software with bugs and helps improve the quality and reliability of applications.
