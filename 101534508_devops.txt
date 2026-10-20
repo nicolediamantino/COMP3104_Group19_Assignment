@@ -1,0 +1,50 @@
+COMP 3104 - DevOps
+
+COMP 3104 is a course that introduces students to DevOps
+principles and practices. DevOps encourages collaboration
+between software development and IT operations teams.
+
+Students learn about Git, GitHub, branching strategies,
+version control, continuous integration, and automation.
+These practices help teams improve software quality and
+deliver changes more efficiently.
+
+We are week 7 - Midterm
+
+DevOps is the integration and automation of software development 
+and information technology operations.
+DevOps encompasses the tasks necessary for software development
+and can lead to both shortening development time and improving 
+the development life cycle.[1] According to American software 
+architect Neal Ford, DevOps, particularly through continuous 
+delivery, employs the "bring the pain forward" principle by 
+tackling challenging tasks early, fostering automation, and
+enabling swift issue detection.
+
+**History**
+Proposals to combine software development methodologies with deployment
+and operations concepts first appeared in the late 80s and early 90s.
+
+In 2009, the first DevOps Days conference was held in Ghent, Belgium. 
+The conference was founded by Belgian IT consultant and practitioner
+Patrick Debois.The conference has now spread to other countries.
+
+In 2012, the first "State of DevOps" report was published by Alanna Brown 
+at Puppet Labs.
+
+In 2016, the DORA metrics for throughput (deployment frequency, lead time 
+for changes), and stability (mean time to recover, change failure rate) 
+were published in that year's State of DevOps report.However, the 
+research methodology and metrics were criticized by some experts.
+In response to these criticisms, the 2023 State of DevOps report
+published changes that updated the stability metric "mean time to 
+recover" to "failed deployment recovery time" acknowledging the 
+confusion the previous metric had caused.
+
+The 2024 report restructured the metrics framework by moving failed
+ deployment recovery time from stability to throughput and introducing 
+a new "rework rate" metric measuring the proportion of unplanned 
+deployments made to fix user-visible issues.In 2025, DORA moved away 
+from sorting teams into performance tiers and instead introduced seven 
+team archetypes that combine delivery metrics with human factors like 
+burnout, friction, and perceived value.
