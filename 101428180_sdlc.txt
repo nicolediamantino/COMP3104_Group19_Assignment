@@ -10,4 +10,12 @@ process more reliable.
 
 Finally, during maintenance, monitoring and feedback help teams identify problems, improve performance, and keep
  applications running smoothly.
+ 
+ My Learning Experience
+
+Through my programming courses, I have learned that Developing software involves more than just writing code.
+It requires planning, testing, teamwork, and continuous improvement.
+
+Learning about DevOps has helped me understand how different stages of software development are connected and why
+collaboration and automation are important for building reliable applications.
 
