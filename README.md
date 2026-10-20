@@ -13,7 +13,7 @@ The project demonstrates Git version control, GitHub collaboration, branching st
 | Nicole Diamantino | 101394035 | 101394035-Nicole |
 | Clein Ecoy | 101272304 | 101272304-Clein |
 | Gargi Borphukan | To be confirmed | To be confirmed |
-| Vera Brazao | To be confirmed | To be confirmed |
+| Vera Brazao | 101428180| 101428180 |
 
 ## Repository Structure
 
