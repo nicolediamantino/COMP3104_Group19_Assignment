@@ -22,7 +22,7 @@ Security in DevOps
 Security is another important part of DevOps. By including security practices throughout software development, teams can identify
 vulnerabilities earlier instead of waiting until the application is completed.
 This approach, often called DevSecOps, encourages developers and operations teams to share responsibility for protecting applications and user data.
-Automated security checks can also help detect potential risks before software is released
+Automated security checks can also help detect potential risks before software is released.
 
 
 

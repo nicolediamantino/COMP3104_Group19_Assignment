@@ -1,4 +1,4 @@
-Importance of DevOps in software Development Life Cycle (SDLC)
+Importance of DevOps in the software Development Life Cycle (SDLC)
 
 During the planning and development stages, DevOps encourages teamwork and helps developers organize their tasks.
 Tools such as Git and GitHub allow team members to track changes and work on different parts of a project.
