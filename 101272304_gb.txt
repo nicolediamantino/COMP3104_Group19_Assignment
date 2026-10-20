@@ -1,0 +1,16 @@
+# George Brown Polytechnic is a college located in different parts of Toronto Ontario Canada.
+
+
+### Im currently enroled in T197 program in GBC. Topics we've learned about are Python, JS, C#, SQL, CLI, GitHub, NumPy, PHP, Algorithms, Quality Assurance, DevOps and much more, these are just some of what we've learned so far. 
+
+
+## Student resources are always provided in the program.
+### For example 
+#### Brightspace. A powerful learning platform that provides a more engaging and interactive learning experience.
+#### Benefits for using Brightspace
+- Forums
+- Content discussion boards
+- Peer work groups 
+- Progress-checking 
+- Assessment and grades functions 
+- Enhanced video functionality

@@ -1,0 +1,23 @@
+#DevOps 
+##comp3104
+
+## This assignment helps us practice using git commands to familiarize ourselves to be proficient in Git and GitHub
+
+## by being proficient in Git and GitHub, we can collaborate with our team with ease.
+
+### Git tracking
+####changes by taking a snapshot each time you save, and then Git records the changes as a history tree aslo known as commits
+
+#### Branch
+#### Each team member uses there own branch to isolate work, and creates a safe and independent workspaces for specific features and prevent risk of multiple members working on different features without mixing their own work all whilst keeping main branch stable and working.
+
+### Pull requests
+#### PR or pull request tells your team to inpect your work before it touches the main codebase
+#### Members can catch bugs, read each line, suggest better solutions and explain about design choices
+
+
+## Continuous integration (CI) automaticall runs checks when developers push changes.
+
+## GitHub actions supports CI by running workflows that can trest code and catch problems early.
+
+## In this assignment the sample workflow prints messges and checkouts the repository to demostrate that the autopmation works.

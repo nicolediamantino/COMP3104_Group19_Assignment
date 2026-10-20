@@ -1,0 +1,15 @@
+## Software development life cycle or (SDLC) includes planning,development, testing, deployment, and maintinence. 
+
+## Devops supports these stages by improving collaboration between development and operations.
+
+## through autopmation and regular feedback, teams can identify problems early and reliable software.
+
+## During development and testing, Devops helps teams work together and check changes regularly.
+
+## Version control keeps a history of changes, while automated test can detect errors before software is released.
+## this allows developers to fix problems earlier and reduce chance of introducing bugs into the main branch
+
+
+## During deployment and maintinence, Devops helps teams release updates consistently through automation. 
+## after deployment monitoring and user feedback helps teams identify problems and plan improvements.
+# This ongoing process helps keeps software reliable and responsive to users needs.
