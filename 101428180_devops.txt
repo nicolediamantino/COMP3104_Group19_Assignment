@@ -15,3 +15,13 @@ I find this especially interesting because automation allows developers to spend
 more time solving problems and improving their applications.
 In COMP3104, I am also learning how tools such as Git and GitHub support collaboration by allowing developers to track changes
 and work on the same project through individual branches.
+
+
+Security in DevOps
+
+Security is another important part of DevOps. By including security practices throughout software development, teams can identify
+vulnerabilities earlier instead of waiting until the application is completed.
+This approach, often called DevSecOps, encourages developers and operations teams to share responsibility for protecting applications and user data.
+Automated security checks can also help detect potential risks before software is released
+
+
