@@ -1,0 +1,34 @@
+COMP3104 - DevOps
+
+Before taking COMP3104, I thought software development was mainly about writing code and making applications work.
+However, through this course, I am learning that developing software also involves collaboration, organization, version control,
+and automation.
+DevOps combines Development and Operations, helping teams work together to build, test, and deliver software more efficiently.
+
+Why DevOps Matters:
+
+One important thing I have learned is that DevOps is not just about technology. It is also about creating a culture where people 
+work together, communicate effectively, and share responsibilities.
+By adopting DevOps practices, companies can automate repetitive tasks, reduce operational costs, improve security,
+and deliver software faster.
+I find this especially interesting because automation allows developers to spend less time on repetitive tasks and 
+more time solving problems and improving their applications.
+In COMP3104, I am also learning how tools such as Git and GitHub support collaboration by allowing developers to track changes
+and work on the same project through individual branches.
+
+
+Security in DevOps
+
+Security is another important part of DevOps. By including security practices throughout software development, teams can identify
+vulnerabilities earlier instead of waiting until the application is completed.
+This approach, often called DevSecOps, encourages developers and operations teams to share responsibility for protecting applications and user data.
+Automated security checks can also help detect potential risks before software is released.
+
+
+
+DevOps and My Future Career
+
+As I continue developing my programming and database skills, I realize that DevOps practices can also be useful in my future career.
+Version control, automation, and teamwork are important not only for software developers but also for professionals working with
+databases and data analysis.
+Learning these practices will help me collaborate more effectively and manage technical projects with greater confidence.

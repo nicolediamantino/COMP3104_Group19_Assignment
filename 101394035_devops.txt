@@ -1,0 +1,49 @@
+
+COMP3104 – DevOps
+
+COMP3104 is a DevOps course at George Brown Polytechnic that introduces students to the tools and practices used in modern software development.
+
+DevOps combines software development and IT operations to improve collaboration, automate workflows, and deliver software more efficiently.
+
+Throughout this course, I have learned about Git, GitHub, branching strategies, pull requests, continuous integration, and continuous delivery.
+
+I have also gained hands-on experience using GitHub Actions to automate repository checks and improve the development workflow.
+
+These skills are important because they help development teams work together, identify errors earlier, and maintain reliable software.
+
+
+Git and GitHub in DevOps
+
+Git is a distributed version control system that allows developers to track changes in their code and maintain a history of their work.
+
+GitHub is a platform that hosts Git repositories and supports collaboration through branches, pull requests, and code reviews.
+
+In our COMP3104 group assignment, we use individual branches to keep each member's work separate before merging changes into the main branch.
+
+This approach helps prevent conflicts, improves collaboration, and makes it easier to review contributions from each team member.
+
+
+Continuous Integration and Continuous Delivery
+
+Continuous Integration (CI) is a DevOps practice where developers frequently integrate their changes into a shared repository.
+
+Automated workflows help identify problems early by running checks whenever code is pushed or a pull request is created.
+
+Continuous Delivery (CD) helps ensure that software changes are tested and ready for deployment.
+
+For our COMP3104 group assignment, I configured a GitHub Actions workflow using a ci.yml file. The workflow checks that the repository contains a README.md file.
+
+This experience helped me understand how automation supports software quality and team collaboration.
+
+
+Team Collaboration in DevOps
+
+Collaboration is one of the main principles of DevOps because developers and operations teams need to communicate effectively throughout the software development process.
+
+GitHub supports collaboration by allowing team members to work on separate branches, submit pull requests, and review changes before merging them.
+
+During our COMP3104 Group 19 assignment, we used individual branches to organize contributions and avoid overwriting each other's work.
+
+As the group repository owner, I also configured GitHub Actions and created a pull request template to help standardize our workflow.
+
+These practices improve accountability, communication, and teamwork.
