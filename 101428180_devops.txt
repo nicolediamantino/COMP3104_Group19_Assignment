@@ -25,3 +25,10 @@ This approach, often called DevSecOps, encourages developers and operations team
 Automated security checks can also help detect potential risks before software is released
 
 
+
+DevOps and My Future Career
+
+As I continue developing my programming and database skills, I realize that DevOps practices can also be useful in my future career.
+Version control, automation, and teamwork are important not only for software developers but also for professionals working with
+databases and data analysis.
+Learning these practices will help me collaborate more effectively and manage technical projects with greater confidence.
